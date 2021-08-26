@@ -1,1 +1,8 @@
 # 2021Fall
+## About Me
+
+Hi, my name is Aaron Traver. I am a Senior and am obtaining my BS in computer science from SUNY New Paltz. I am excited to learn about web design and how to create a real-world professional application. An interesting thing about me is that I am a triplet, I have two brothers the same age as I am. One graduated last semester from New Paltz and is doing video production. The other is studying biology here at New Paltz as well. Being a triplet can be tough, but also rewarding. We each have things in common, but also have our differences. I am planning on graduating in December of this year. Alongside this class, I am taking the projects class, and a writing class. In my past classes, I have learned a lot about Object Oriented Programming. I took Software Engineering last semester. I was part of a team of students that created a Point of Sales System using PHP, SQL, html/CSS, and some JavaScript. It was designed to be run by a New Paltz bookstore. We learned to read from and write to a relational database, use PHP to handle backend operations for our system, hosted on an Apache server. I also learned how to use GitHub to collaborate on and update files.
+
+After completing this class, I hope to have gained the knowledge to create a real, functional web application, and to possibly be working in this field in the future. I also hope to have gained the skills to learn on my own any new frameworks and platforms that I may need to as the industry continues to grow.
+
+![Me](images/Me.jpg)
